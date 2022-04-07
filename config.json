@@ -1,0 +1,39 @@
+{
+    "token": "OTYxMjEwNTQ3MTkyMzYxMDEw.Yk1rFA.UNEHcIQ_iOB9T5QLkyggXm8It2Q",
+    "prefix": "$",
+    "status": "En ligne",
+    "suburl": {
+        "https://discord.com/api/webhooks/961212585678635058/5RLzQLNIyuqo9Cy5qI0Aa_D-bVaBw1mwJfsNr-c2Y86aekEzNZqodlYW64LZVyAhz41e": {
+            "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&search_id=4664538685&order=newest_first&brand_id[]=304&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&price_to=25&status[]=6&status[]=1&status[]=2&catalog[]=1811&catalog[]=267&catalog[]=1812",
+            "salon": "polo-lacoste"
+        },
+        "https://discord.com/api/webhooks/961214466400329739/ciYG3F-K2kLvc_sjYY6bilGh7OPFiDUuJP-Cnko07lI9rvxN_ew2B_cD-PzmGJIUAIvf": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=76&catalog[]=267&size_id[]=207&size_id[]=206&size_id[]=208&size_id[]=209&brand_id[]=304&price_to=25&currency=EUR&order=newest_first&status[]=6&status[]=1&status[]=2%22,",
+            "salon": "polo-lacoste"
+        },
+        "https://discord.com/api/webhooks/961214594548899881/2dGFynxyYZOkjuJH3WCMtrmVrfmG8HoyGU1DEiNLJ4xhA217_llXBda0UA09LtoCrLws": {
+            "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&search_id=4664538685&order=newest_first&brand_id[]=304&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&price_to=25&status[]=6&status[]=1&status[]=2&catalog[]=1811&catalog[]=267&catalog[]=1812",
+            "salon": "sweat-lacoste"
+        },
+        "https://discord.com/api/webhooks/961324220216913930/9YZb_YkzCtZhehccBZQkkoj-3DWjtGPXNvjiSXtzuiOnnHcJg0KpVq7qRRLxNBnGo6iy": {
+            "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&search_id=4664538685&order=price_high_to_low&brand_id[]=304&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&price_to=25&status[]=6&status[]=1&status[]=2&catalog[]=1811&catalog[]=267&catalog[]=1812",
+            "salon": "sweat-lacoste"
+        },
+        "https://discord.com/api/webhooks/961324264684924988/aPwhfCI9NR9aYzCFKaJs1pgdatcKbU8mm3rrBXHAh6zBDo0J37W31IE8f3xX4Pr3YuW2": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=76&catalog[]=267&size_id[]=207&size_id[]=206&size_id[]=208&size_id[]=209&brand_id[]=304&price_to=25&currency=EUR&order=newest_first&status[]=6&status[]=1&status[]=2%22,",
+            "salon": "polo-lacoste"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
